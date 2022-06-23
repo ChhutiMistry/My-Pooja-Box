@@ -1,0 +1,844 @@
+#headp{
+     text-align: center;
+     color: white;
+     background-color: #e85992;
+}
+
+.mynavw{
+     background-color: #ffffff;
+     height: 90px;
+}
+
+#navbr1{
+     font-size: 10px;
+     text-align: center;
+     line-height: 0px;
+}
+
+#navbr2{
+     font-size: 12px;
+     text-align: center;
+     line-height: 0px;
+}
+
+#navbr3{
+     font-size: 8px;
+     text-align: center;
+     line-height: 0px;
+     margin-bottom: -2%;
+}
+
+.mynavcon{
+     margin-left: 2%;
+     background-color: #ffffff;
+}
+
+.mynavcont{
+     width: 80px;
+}
+
+.mynavc{
+     width: 128px;
+}
+
+#navsear{
+     font-size: 9px;
+     text-align: center;
+}
+
+#navcart{
+     font-size: 9px;
+     text-align: center;
+}
+
+#navback{
+     height: 800px;
+     width: 100%;
+     background-image: url('https://cdn.shopify.com/s/files/1/2090/3151/files/banner_7886d865-67e0-4976-beed-8cb7a0fadf6b.jpg?v=1654611871');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+.circleimg{
+     height: 200px;
+     width: 200px;
+     border-radius: 50%;
+     margin-top: 8%;
+}
+
+#myi1{
+     background-image: url('./Images/DSC05376copy_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi1:hover{
+     background-image: url('./Images/DSC05280copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi2{
+     background-image: url('./Images/DSC_4510_cbf39984-09bb-4219-a81e-24fb496d68e1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi2:hover{
+     background-image: url('./Images/DSC_4510_cbf39984-09bb-4219-a81e-24fb496d68e1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi3{
+     background-image: url('./Images/DSC05365copy_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi3:hover{
+     background-image: url('./Images/DSC05351copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi4{
+     background-image: url('./Images/DSC05381copy_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi4:hover{
+     background-image: url('./Images/DSC05371copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi5{
+     background-image: url('./Images/DSC_4549_59d6a2fb-ec72-41cb-9669-81cd222ab1fb_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi5:hover{
+     background-image: url('./Images/DSC_4548_5a52ddce-fd2b-4058-9d8b-22905d474658_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi6{
+     background-image: url('./Images/IMG_7717_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi6:hover{
+     background-image: url('./Images/IMG_7717_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi7{
+     background-image: url('./Images/93363703-9a35-430a-8861-ba68501b67af_b5395df5-367c-456a-b0a5-8d31cef3b065.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi7:hover{
+     background-image: url('./Images/9111be79-de45-4fdd-bdd0-8c0535afb983_6a7e105d-1734-4740-a7db-958d1e6760e8_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi8{
+     background-image: url('./Images/DSC_5825_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi8:hover{
+     background-image: url('./Images/DSC_5819_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi9{
+     background-image: url('./Images/IMG_2462.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi9:hover{
+     background-image: url('./Images/IMG_2461_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi10{
+     background-image: url('./Images/DSC_5895_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi10:hover{
+     background-image: url('./Images/WhatsAppImage2020-06-18at4.30.28PM_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi11{
+     background-image: url('./Images/7.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi11:hover{
+     background-image: url('./Images/5_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi12{
+     background-image: url('./Images/DSC_3500_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi12:hover{
+     background-image: url('./Images/DSC_3500_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi13{
+     background-image: url('./Images/DSC_4877_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi13:hover{
+     background-image: url('./Images/DSC_4877_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi14{
+     background-image: url('./Images/IMG_6565copy.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi14:hover{
+     background-image: url('./Images/IMG_6485copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi15{
+     background-image: url('./Images/DSC_5107_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi15:hover{
+     background-image: url('./Images/DSC_5107_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi16{
+     background-image: url('./Images/IMG_6570copy.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi16:hover{
+     background-image: url('./Images/IMG_6472copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi17{
+     background-image: url('./Images/IMG_6472copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi17:hover{
+     background-image: url('./Images/IMG_6582copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi18{
+     background-image: url('./Images/IMG_6572copy.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi18:hover{
+     background-image: url('./Images/IMG_6481copy_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi19{
+     background-image: url('./Images/IMG_2424.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi19:hover{
+     background-image: url('./Images/DSC_4028_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi20{
+     background-image: url('./Images/IMG_2484.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi20:hover{
+     background-image: url('./Images/IMG_2483_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi21{
+     background-image: url('./Images/1_5327c526-8b28-493a-b85a-fda4e9576471.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi21:hover{
+     background-image: url('./Images/4_d5d3928a-fa8f-423e-95fc-5225f0a63768_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi22{
+     background-image: url('./Images/16_bb06683e-4adb-4b42-9de5-5b0958c74a44_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi22:hover{
+     background-image: url('./Images/16_bb06683e-4adb-4b42-9de5-5b0958c74a44_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi23{
+     background-image: url('./Images/18.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi23:hover{
+     background-image: url('./Images/2_6f91261d-92b3-448b-9fa3-f9429df48004_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi24{
+     background-image: url('./Images/23.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi24:hover{
+     background-image: url('./Images/37_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi25{
+     background-image: url('./Images/IMG_0271.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi25:hover{
+     background-image: url('./Images/IMG_0272_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi26{
+     background-image: url('./Images/IMG_0304.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi26:hover{
+     background-image: url('./Images/IMG_0305_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi27{
+     background-image: url('./Images/IMG_0270.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi27:hover{
+     background-image: url('./Images/IMG_0269_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi28{
+     background-image: url('./Images/IMG_0257_5b2fc078-1499-43cb-9f57-85ee72d85f31.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi28:hover{
+     background-image: url('./Images/IMG_0258_d031a700-710f-47ed-8a6a-99067a29f25f_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi29{
+     background-image: url('./Images/IMG_0256.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi29:hover{
+     background-image: url('./Images/IMG_0255_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi30{
+     background-image: url('./Images/IMG_0273.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi30:hover{
+     background-image: url('./Images/IMG_0275_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi31{
+     background-image: url('./Images/7_795a881d-c763-404d-a852-120aa9fb5468.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi31:hover{
+     background-image: url('./Images/2_f8db09b2-f530-4946-9873-02af869ba20a.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi32{
+     background-image: url('./Images/DSC_4089_f0545bee-4de3-4a46-a599-1d289cf25289.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi32:hover{
+     background-image: url('./Images/DSC_4121_1_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi33{
+     background-image: url('./Images/IMG_0022_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi33:hover{
+     background-image: url('./Images/IMG_0022_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi34{
+     background-image: url('./Images/IMG_0156_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi34:hover{
+     background-image: url('./Images/IMG_0157_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi35{
+     background-image: url('./Images/DONEIMG_9459_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi35:hover{
+     background-image: url('./Images/DSC_3169_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi36{
+     background-image: url('./Images/IMG_9950_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi36:hover{
+     background-image: url('./Images/IMG_9950_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi37{
+     background-image: url('./Images/DSC_9511.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi37:hover{
+     background-image: url('./Images/DSC_9513_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi38{
+     background-image: url('./Images/DSC_3246_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi38:hover{
+     background-image: url('./Images/DSC_3245_0b1a20ba-05ab-46c3-9697-4727ce3f23d3_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi39{
+     background-image: url('./Images/DSC_9562_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi39:hover{
+     background-image: url('./Images/DSC_9562_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi40{
+     background-image: url('./Images/feng-shui-blue-evil-eye-hanging-705.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi40:hover{
+     background-image: url('./Images/feng-shui-blue-evil-eye-hanging-732_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi41{
+     background-image: url('./Images/DSC_3246_1100x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi41:hover{
+     background-image: url('./Images/DSC_3237_469b0923-86a3-4c73-a122-f03dd60a70c7_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi42{
+     background-image: url('./Images/DSC_2963.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#myi42:hover{
+     background-image: url('./Images/DSC_2961_360x.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+.incensehead{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+     margin-top: 3%;
+}
+
+.incensehe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+}
+
+.incensebutt{
+     text-align: right;
+     margin-top: 3%;
+     margin-bottom: 1%;
+}
+
+.incensebut{
+     color: #ffffff;
+     background-color: #d3134f;
+     border: none;
+}
+
+.incenseimgb{
+     height: 200px;
+     width: 100%;
+}
+
+.incenseimg{
+     height: 100%;
+     width: 100%;
+     margin-top: 10%;
+}
+
+.incensenam{
+     font-size: 12px;
+     margin-top: 14%;
+     text-align: left;
+}
+
+.incensename{
+     font-size: 18px;
+     margin-top: 14%;
+     text-align: center;
+}
+
+.incenseb{
+     color: #ffffff;
+     background-color: #d3134f;
+     border: none;
+     width: 100%;
+}
+
+#limitedhe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+     margin-top: 3%;
+}
+
+#healinghe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+     margin-top: 3%;
+}
+
+#himalayanhe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+     margin-top: 3%;
+}
+
+#midback{
+     height: 400px;
+     width: 100%;
+     margin-top: 3%;
+     margin-bottom: 2%;
+     background-image: url('https://cdn.shopify.com/s/files/1/2090/3151/files/RAKHI_BANNER__1654851826_203.122.11.36.jpg?v=1654852191');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#evilhe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+}
+
+#footback{
+     height: 400px;
+     width: 100%;
+     margin-top: 3%;
+     margin-bottom: 2%;
+     background-image: url('https://cdn.shopify.com/s/files/1/2090/3151/files/SALT_LAMP_BANNER.gif?v=1654845186');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+#godhe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+}
+
+#poojahe{
+     font-size: 16px;
+     font-weight: bold;
+     position: absolute;
+     margin-top: 3%;
+}
+
+#instahead{
+     text-align: center;
+     margin-top: 3%;
+     margin-bottom: 0.8%;
+     font-weight: bold;
+}
+
+.instaimg{
+     height: 200px;
+     width: 100%;
+     max-width: 13.8rem;
+     min-width: 7.5rem;
+}
+
+.instaimg:hover{
+     opacity: 0.9;
+}
+
+#instaimgg{
+     height: 200px;
+     width: 100%;
+     max-width: 13.8rem;
+     min-width: 7.5rem;
+}
+
+#instaimgg:hover{
+     opacity: 0.9;
+}
+
+#lpobo{
+     text-align: center;
+     margin-top: 4%;
+     font-size: 20px;
+     line-height: 0px;
+}
+
+.lpobona{
+     font-size: 13px;
+}
+
+#readm{
+     color: #d3244e;
+     text-align: center;
+     cursor: pointer;
+     font-size: 14px;
+}
+
+#RM{
+     display: none;
+}
+
+.myro{
+     text-align: center;
+     color: #a1a1a1;
+}
+
+.myrole{
+     border-left-color: #a1a1a1;
+     border-left-width: 1px;
+     border-left-style: solid;
+}
+
+.myrona{
+     font-size: 12px;
+     color: black;
+}
+
+#foot{
+     color: #fff;
+     background-color: #ffafb6;
+}
+
+#footbr1{
+     font-size: 18px;
+     text-align: center;
+     line-height: 26px;
+     margin-top: 10%;
+}
+
+#footbr2{
+     font-size: 36px;
+     text-align: center;
+     line-height: 26px;
+}
+
+#footbr3{
+     font-size: 16px;
+     text-align: center;
+     line-height: 26px;
+}
+
+#footbut{
+     text-align: center;
+}
+
+#facebut{
+     border-color: #fff;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 5px;
+     color: #fff;
+     background-color: #ffafb6;
+     margin-top: 10%;
+     margin-right: 20%;
+}
+
+#instabut{
+     border-color: #fff;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 5px;
+     color: #fff;
+     background-color: #ffafb6;
+}
+
+.footslogo{
+     height: 25px;
+     width: 25px;
+}
+
+.foothe{
+     margin-top: 18%;
+     font-size: 20px;
+}
+
+.footbo{
+     margin-left: -12%;
+}
+
+#footgoog{
+     width: 100px;
+     margin-top: 5%;
+     margin-left: 5%;
+     margin-bottom: 3%;
+}
+
+#footios{
+     width: 100px;
+     margin-top: 5%;
+     margin-left: 1%;
+     margin-bottom: 3%;
+}
+
+#footmobi{
+     display: inline-block;
+     margin-left: 1%;
+}
+
+#footcopy{
+     display: inline-block;
+}
+
+#footri{
+     margin-left: 68%;
+     margin-top: -6%;
+     position: absolute;
+}
